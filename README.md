@@ -7,3 +7,5 @@ Then I installed "styled-components" with the command:
 ```
 yarn add styled-components
 ```
+
+I stopped in the third video.
