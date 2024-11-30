@@ -1,10 +1,11 @@
 import {Container, Content} from './styles'
+import Input from './components/Input'
 
 function App() {
   return (
     <Container>
       <Content>
-        Olá
+        <Input />
       </Content>
     </Container>
   );

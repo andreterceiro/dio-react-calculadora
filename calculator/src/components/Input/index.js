@@ -1,7 +1,7 @@
 const Input = () => {
     return (
         <div className="App">
-            Olá
+            Input
         </div>
     );
 }
