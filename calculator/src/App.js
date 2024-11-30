@@ -1,10 +1,12 @@
+import {Container, Content} from './styles'
+
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
+    <Container>
+      <Content>
         Olá
-      </header>
-    </div>
+      </Content>
+    </Container>
   );
 }
 
